@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1582680217 source:c:\users\xavis\programming\ics4u\1niftymountains-xavi-simpson\simpson_xavi niftymountains\main.cpp
+	<bits/stdc++.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"draw.h"
+
+1582681027 c:\users\xavis\programming\ics4u\1niftymountains-xavi-simpson\simpson_xavi niftymountains\draw.h
+	<bits/stdc++.h>
+	<vector>
+
+1582681006 source:c:\users\xavis\programming\ics4u\1niftymountains-xavi-simpson\simpson_xavi niftymountains\draw.cpp
+	<bits/stdc++.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<time.h>
+	"draw.h"
+
+1582681562 source:c:\users\xingr\downloads\nifty\simpson_xavi niftymountains\main.cpp
+	<bits/stdc++.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"draw.h"
+
+1582681135 c:\users\xingr\downloads\nifty\simpson_xavi niftymountains\draw.h
+	<bits/stdc++.h>
+	<vector>
+
+1582682718 source:c:\users\xingr\downloads\nifty\simpson_xavi niftymountains\draw.cpp
+	<bits/stdc++.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<time.h>
+	"draw.h"
+
+1582682720 source:c:\users\xavis\pictures\nifty_2\nifty\simpson_xavi niftymountains\draw.cpp
+	<bits/stdc++.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<time.h>
+	"draw.h"
+
+1582681136 c:\users\xavis\pictures\nifty_2\nifty\simpson_xavi niftymountains\draw.h
+	<bits/stdc++.h>
+	<vector>
+
+1582681564 source:c:\users\xavis\pictures\nifty_2\nifty\simpson_xavi niftymountains\main.cpp
+	<bits/stdc++.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"draw.h"
+
